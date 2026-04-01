@@ -516,7 +516,7 @@ function Step4Risk({ onNext, onBack }: any) {
 
             <div className="p-3 rounded-xl" style={{ background: '#FEF3C7' }}>
               <p className="text-amber-800 text-xs font-semibold">⚠️ Monsoon season elevated risk</p>
-              <p className="text-amber-600 text-xs mt-0.5">IMD forecasts &gt;65mm rain for your zone next 4 weeks.
+              <p className="text-amber-600 text-xs mt-0.5">IMD forecasts &gt;65mm rain for your zone next 4 weeks.</p>
             </div>
           </motion.div>
         )}
